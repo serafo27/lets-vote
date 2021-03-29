@@ -35,40 +35,32 @@ youtube_username                          :
 features                                  :
 
   - title                                 : Fibonacci vote
-    description                           : Designed for GitHub Pages. Fork. Edit _config.yml. Upload screenshot/video. Push to gh-pages branch. Voilá!
-    fontawesome_icon_name                 : magic
+    description                           : Estimate with the classic fibonacci series.
+    fontawesome_icon_name                 : star
     
   - title                                 : T-shirt size vote
-    description                           : Preview your app in the context of an iPhone device. Five different device colors included.
-    fontawesome_icon_name                 : mobile
+    description                           : You need also the tshirt size? You have it.
+    fontawesome_icon_name                 : info-circle
 
   - title                                 : Thumbs up/down vote
-    description                           : Preview app video on the iPhone device simply by placing your video files in the videos folder.
+    description                           : At the end of the meeting use the thumbs up vote to see if the outcome is affordble.
     fontawesome_icon_name                 : play-circle
 
-  - title                                 : Automatic Icon and Metadata
-    description                           : Enter iOS app ID in the _config.yml file to automatically fetch app icon, price and App Store Link.
+  - title                                 : Random avatar
+    description                           : Every time you will have a new face.
     fontawesome_icon_name                 : sync
 
-  - title                                 : Easy to Tweak
-    description                           : Tweak accent color, images, icons and transparency via the _config.yml file. No HTML/CSS needed.
+  - title                                 : Easy to use
+    description                           : Designed to be easy to use and quick to share.
     fontawesome_icon_name                 : adjust
   
-  - title                                 : Feature List
-    description                           : Add features (like this one) to your site via the _config.yml file. No HTML/CSS needed.
-    fontawesome_icon_name                 : star
+  - title                                 : Desktop and Mobile friendly
+    description                           : Looks well on every device.
+    fontawesome_icon_name                 : mobile
 
-  - title                                 : Smart App Banner
-    description                           : Display a smart app banner on iOS devices.
-    fontawesome_icon_name                 : arrow-alt-circle-down
-
-  - title                                 : Social Links
-    description                           : Easily add social media accounts and contact info in the footer via the _config.yml file. No HTML/CSS needed.
-    fontawesome_icon_name                 : link
-
-  - title                                 : FontAwesome Support
-    description                           : Pick custom Font Awesome icons for the feature list via the _config.yml file. No HTML/CSS needed.
-    fontawesome_icon_name                 : info-circle
+  - title                                 : Completely free
+    description                           : Free to use and to share with your colleagues and others.
+    fontawesome_icon_name                 : magic
 
   - title                                 : # New Feature Title
     description                           : # New Feature Description
